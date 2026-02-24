@@ -1,0 +1,20 @@
+{
+  "name": "1024abackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenacarvalho-sketch/1024abackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenacarvalho-sketch/1024abackend/issues"
+  },
+  "homepage": "https://github.com/lorenacarvalho-sketch/1024abackend#readme"
+}

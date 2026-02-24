@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/lorenacarvalho-sketch/1024abackend/issues"
   },
-  "homepage": "https://github.com/lorenacarvalho-sketch/1024abackend#readme"
+  "homepage": "https://github.com/lorenacarvalho-sketch/1024abackend#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.18.0"
+  }
 }
